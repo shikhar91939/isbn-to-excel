@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gbs='http://schemas.google.com/books/2008' xmlns:dc='http://purl.org/dc/terms' xmlns:batch='http://schemas.google.com/gdata/batch' xmlns:gd='http://schemas.google.com/g/2005'>
+	<id>http://www.google.com/books/feeds/volumes</id>
+	<updated>2015-04-26T11:03:15.000Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/books/2008#volume'/>
+	<title type='text'>Search results for isbn:0141036257</title>
+	<link rel='alternate' type='text/html' href='http://www.google.com'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://www.google.com/books/feeds/volumes'/>
+	<link rel='self' type='application/atom+xml' href='http://www.google.com/books/feeds/volumes?q=isbn%3A0141036257'/>
+	<author>
+		<name>Google Books Search</name>
+		<uri>http://www.google.com</uri>
+	</author>
+	<generator version='beta'>Google Book Search data API</generator>
+	<openSearch:totalResults>1</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>1</openSearch:itemsPerPage>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/G_osyXN-mm0C</id>
+		<updated>2015-04-26T11:03:15.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/books/2008#volume'/>
+		<title type='text'>Outliers</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown' href='http://books.google.com/books/content?id=G_osyXN-mm0C&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;source=gbs_gdata'/>
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html' href='http://books.google.com/books?id=G_osyXN-mm0C&amp;dq=isbn:0141036257&amp;ie=ISO-8859-1&amp;source=gbs_gdata'/>
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html' href='http://books.google.com/books?id=G_osyXN-mm0C&amp;dq=isbn:0141036257&amp;ie=ISO-8859-1&amp;cd=1&amp;source=gbs_gdata'/>
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml' href='http://www.google.com/books/feeds/users/me/volumes'/>
+		<link rel='alternate' type='text/html' href='http://books.google.com/books?id=G_osyXN-mm0C&amp;dq=isbn:0141036257&amp;ie=ISO-8859-1'/>
+		<link rel='self' type='application/atom+xml' href='http://www.google.com/books/feeds/volumes/G_osyXN-mm0C'/>
+		<gbs:contentVersion>1.4.2.0.preview.2</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#not_embeddable'/>
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled'/>
+		<gd:rating min='1' max='5' average='5.00'/>
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_no_pages'/>
+		<dc:creator>Malcolm Gladwell</dc:creator>
+		<dc:date>2008-11-18</dc:date>
+		<dc:description>Just as he did in Blink, Gladwell overturns many of our conventional notions and creates an entirely new model for seeing the world. Brilliant and entertaining, this is a landmark work that will simultaneously delight and illuminate.</dc:description>
+		<dc:format>320 pages</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>G_osyXN-mm0C</dc:identifier>
+		<dc:identifier>ISBN:9780141036250</dc:identifier>
+		<dc:identifier>ISBN:0141036257</dc:identifier>
+		<dc:language>en</dc:language>
+		<dc:publisher>Penguin UK</dc:publisher>
+		<dc:subject>Business &amp; Economics</dc:subject>
+		<dc:title>Outliers</dc:title>
+		<dc:title>The Story of Success</dc:title>
+	</entry>
+</feed>
